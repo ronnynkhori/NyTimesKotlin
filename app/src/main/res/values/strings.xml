@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTimes Articles</string>
+    <string name="title_holder">Article Title</string>
+    <string name="desc_holder">Article description</string>
+    <string name="author">By Ronnie</string>
+
+    <string name="menu_about">About</string>
+    <string name="date">date</string>
+    <string name="search">searchmenu</string>
+</resources>
