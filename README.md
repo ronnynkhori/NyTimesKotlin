@@ -33,7 +33,8 @@ Run the tests using either class by class `Right-Click > Run 'ArticlesActivityTe
 
 
 ## Code Coverage
-Code coverage report is deplayed on ArticlesActivityTest Report
+Code coverage report is deplayed on ArticlesActivityTest Report 
+Report summary can be found at NYTimes/app/build/reports/tests/testDebugUnitTest/index.html
 
 
 ## Developer
